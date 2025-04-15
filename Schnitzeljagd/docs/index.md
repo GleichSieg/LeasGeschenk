@@ -10,6 +10,6 @@ hide:
 
 ![<3](img/start.png)
 
-<a href="Rätsel1" target="_blank">
-    <img src="img/Button2.png" alt="Button" width="400" style="display: block; margin: 0 auto;">
+<a href="https://GleichSieg.github.io/LeasGeschenk/Rätsel1" target="_blank">
+    <img src="https://GleichSieg.github.io/LeasGeschenk/img/Button2.png" alt="Button" width="400" style="display: block; margin: 0 auto;">
 </a>
