@@ -46,6 +46,6 @@ Ich wünsche dir viel Glück! 🍀
 
 
 ### **wenn du dir sicher bist kannst du hier zum nächsten Rätsel:**  
-<a href="/Rätsel3" target="_blank">
+<a href="https://GleichSieg.github.io/LeasGeschenk/Rätsel3" target="_blank">
     <img src="/img/Schlaubi.jpg" alt="Button" width="200" style="display: block; margin: 0 auto;">
 </a>
