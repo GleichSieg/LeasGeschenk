@@ -8,7 +8,7 @@ password: Westfalenpark
 
 # Rätsel 3
 ## Verdammt, warum bist du so gut?! Naja, einen letztes Problem musst du noch überwinden! Und einfacher wird es nicht!
-### Vier Bilder Ein Wort soll sein. Die Antwort 
+### Vier Bilder Ein Wort soll sein. Die Antwort die suchst hat fünf Buchstaben.
 
 ### **wenn du dir sicher bist kannst du hier zum nächsten Rätsel:**  
 <a href="Rätsel4" target="_blank">
