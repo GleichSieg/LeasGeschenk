@@ -20,8 +20,12 @@ Und einfacher wird es ganz sicher **nicht**!
 Die Antwort, die du suchst, besteht aus **fünf Buchstaben**.  
 Schau dir die Bilder gut an – was könnte gemeint sein?
 
-
----
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+    <img src="https://GleichSieg.github.io/LeasGeschenk/img/Typisch-kölsch_Der-Bierdeckel-auf-dem-Kölschglas.jpg" alt="Bild 1" style="width: 100%;">
+    <img src="https://GleichSieg.github.io/LeasGeschenk/img/paint-boxes-1189945_1280.jpg" alt="Bild 2" style="width: 100%;">
+    <img src="https://GleichSieg.github.io/LeasGeschenk/img/olivenbaum-m017005_w_2.jpg" alt="Bild 3" style="width: 100%;">
+    <img src="https://GleichSieg.github.io/LeasGeschenk/img/paint-boxes-1189945_1280.jpg" alt="Bild 4" style="width: 100%;">
+</div>
 
 **Viel Erfolg, du bist fast am Ziel! 🚀**
 ### **wenn du dir sicher bist kannst du hier zum nächsten Rätsel:**  
