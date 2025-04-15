@@ -11,6 +11,6 @@ password: Westfalenpark
 ### Vier Bilder Ein Wort soll sein. Die Antwort 
 
 ### **wenn du dir sicher bist kannst du hier zum nächsten Rätsel:**  
-<a href="/Rätsel4" target="_blank">
-    <img src="/img/Schlaubi.jpg" alt="Button" width="200" style="display: block; margin: 0 auto;">
+<a href="Rätsel4" target="_blank">
+    <img src="img/Schlaubi.jpg" alt="Button" width="200" style="display: block; margin: 0 auto;">
 </a>
