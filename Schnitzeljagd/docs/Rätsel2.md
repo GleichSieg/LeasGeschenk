@@ -23,5 +23,7 @@ Ich wünsche dir viel Glück! 🍀
 
 ---
 
-**🔐 Lösungswort:**  
-_(Gib hier dein Ergebnis ein, um weiterzukommen!)_
+### **wenn du dir sicher bist kannst du hier zum nächsten Rätsel:**  
+<a href="/Rätsel3" target="_blank">
+    <img src="/img/Button1.png" alt="Button" width="400" style="display: block; margin: 0 auto;">
+</a>
