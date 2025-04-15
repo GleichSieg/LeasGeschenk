@@ -2,3 +2,8 @@ site_name: Leas Geburtstagsrätsel
 nav: []
 theme:
   name: material
+
+plugins:
+  - search:
+  - encryptcontent: {}
+  

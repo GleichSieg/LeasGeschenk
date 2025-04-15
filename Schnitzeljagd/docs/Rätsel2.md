@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+password: Westfalenpark
 ---
 
 # 🧩 Rätsel 2
@@ -18,7 +19,7 @@ Ich wünsche dir viel Glück! 🍀
 
 ## 🧠 Das große Kreuzworträtsel:
 
-<iframe width="500" height="500" style="border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/leasgroeskreuzwortratsel"></iframe>
+<iframe width= "1000" height= "1000" style="border:3px solid black; margin:auto; display:block" frameborder="0" src="https://crosswordlabs.com/embed/leasgroeskreuzwortratsel"></iframe>
 
 ---
 
