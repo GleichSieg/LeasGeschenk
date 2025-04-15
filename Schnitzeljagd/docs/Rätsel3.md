@@ -12,5 +12,5 @@ password: Westfalenpark
 
 ### **wenn du dir sicher bist kannst du hier zum nächsten Rätsel:**  
 <a href="/Rätsel4" target="_blank">
-    <img src="/img/Button1.png" alt="Button" width="400" style="display: block; margin: 0 auto;">
+    <img src="/img/Schlaubi.jpg" alt="Button" width="200" style="display: block; margin: 0 auto;">
 </a>
