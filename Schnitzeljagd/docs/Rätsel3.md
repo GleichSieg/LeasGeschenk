@@ -18,9 +18,8 @@ Und einfacher wird es ganz sicher **nicht**!
 ### 🎯 Aufgabe: *Vier Bilder – Ein Wort*
 
 Die Antwort, die du suchst, besteht aus **fünf Buchstaben**.  
-Schau dir die Bilder gut an – was haben sie gemeinsam?
+Schau dir die Bilder gut an – was könnte gemeint sein?
 
-> 💡 **Tipp:** Denk quer. Manchmal ist das Offensichtliche genau das Richtige.
 
 ---
 
