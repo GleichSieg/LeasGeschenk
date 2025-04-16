@@ -1,4 +1,4 @@
 /* Entfernt den gesamten Header */
-.md-header__ellipsis {
+.md-header {
     display: none;
 }

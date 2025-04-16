@@ -3,8 +3,10 @@ nav: []
 theme:
   name: material
 
+  features:
+    - header.autohide
 plugins:
   - encryptcontent: {}
-  
+
 extra_css:
-  - extra.css
+  - test.css
