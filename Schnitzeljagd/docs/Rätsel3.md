@@ -34,6 +34,6 @@ Schau dir die Bilder gut an – was könnte gemeint sein?
 
 **Viel Erfolg, du bist fast am Ziel! 🚀**
 ### **wenn du dir sicher bist kannst du hier zum nächsten Rätsel:**  
-<a href="https://GleichSieg.github.io/LeasGeschenk/finale" target="_blank">
+<a href="https://GleichSieg.github.io/LeasGeschenk/finale">
     <img src="https://GleichSieg.github.io/LeasGeschenk/img/Schlaubi.jpg" alt="Button" width="200" style="display: block; margin: 0 auto;">
 </a>
