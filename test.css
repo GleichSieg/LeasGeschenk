@@ -1,0 +1,4 @@
+/* Entfernt den gesamten Header */
+.md-header {
+    display: none;
+}
