@@ -3,7 +3,6 @@ hide:
   - navigation
   - toc
 password: Westfalenpark
-template: home.html
 ---
 
 # 🧩 Rätsel 2

@@ -3,7 +3,6 @@ hide:
   - navigation
   - toc
 password: Tapas
-template: home.html
 ---
 
 # Herzlichen Glückwunsch
@@ -22,4 +21,4 @@ Zum Schluss lassen wir es uns bei ein paar Tapas gut gehen!
 
 Ich liebe dich und ich freue mich auf jeden Moment mit dir.
 
-![<3](img/start.png)
+![<3](https://GleichSieg.github.io/LeasGeschenk/img/Paris.jpg)
