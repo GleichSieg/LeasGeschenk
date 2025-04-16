@@ -21,4 +21,4 @@ Zum Schluss lassen wir es uns bei ein paar Tapas gut gehen!
 
 Ich liebe dich und ich freue mich auf jeden Moment mit dir.
 
-![<3](https://GleichSieg.github.io/LeasGeschenk/img/Paris.jpg)
+<img src="https://GleichSieg.github.io/LeasGeschenk/img/Paris.jpg" alt="Paris" width="300">
