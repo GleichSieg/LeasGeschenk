@@ -1,3 +1,10 @@
+---
+hide:
+  - navigation
+  - toc
+password: Tapas
+---
+
 # Herzlichen Glückwunsch
 
 Du hast es geschafft – alle Rätsel wurden gelöst.  
