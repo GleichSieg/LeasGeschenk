@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
 password: Phoenix De Lumieres
+template: home.html
 ---
 
 

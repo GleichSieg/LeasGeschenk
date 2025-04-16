@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
 password: Tapas
+template: home.html
 ---
 
 # Herzlichen Glückwunsch

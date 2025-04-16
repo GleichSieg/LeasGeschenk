@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+template: home.html
 ---
 
 # Herzlich willkommen zum ersten Rätsel! 🎉

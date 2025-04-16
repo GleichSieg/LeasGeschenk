@@ -2,6 +2,7 @@
 hide:
   - navigation
   - toc
+template: home.html
 ---
 
 # **Alles Gute zum Geburtstag Lea!!!**

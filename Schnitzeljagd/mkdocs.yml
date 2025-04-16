@@ -5,6 +5,3 @@ theme:
 
 plugins:
   - encryptcontent: {}
-
-extra_css:
-  - extra.css
