@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-password: Westfalenpark
+password: Phoenix De Lumieres
 ---
 
 # 🧩 Rätsel 2
